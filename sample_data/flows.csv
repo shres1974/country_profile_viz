@@ -1,0 +1,14 @@
+year,origin_country,dest_country,ip_type,applications
+2019,Canada,Japan,patent,700
+2020,Canada,Japan,patent,720
+2021,Canada,Japan,patent,650
+2022,Canada,Japan,patent,790
+2023,Canada,Japan,patent,776
+2019,Japan,Canada,patent,1100
+2020,Japan,Canada,patent,1000
+2021,Japan,Canada,patent,1300
+2022,Japan,Canada,patent,1250
+2023,Japan,Canada,patent,1197
+2023,Canada,Japan,trademark,370
+2023,Japan,Canada,trademark,1151
+2023,Canada,Japan,design,132
